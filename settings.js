@@ -19,32 +19,42 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `***✺✺✺✺✺✺✺✺✺✺✺✺✺✺✺***
+*========------------========*
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+*🪀😍𝙷𝚎𝚢 𝚑𝚒 𝚝𝚑𝚎𝚛𝚎🤪🪀*
 
-global.ownername = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Owner Name
+*🤑🍂𝗕𝗼𝘁 𝗶𝘀 𝗮𝗹𝗶𝘃𝗲 𝗻𝗼𝘄 🍃😎*
+
+*𝗢𝘄𝗻𝗲𝗿: ➳ᴹᴿ✿ƙα𝚟ιყα🎃*
+
+*💫𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲: http://Wa.me/+94769888167*
+
+*-----🔥💓Red Dragon 𝗕𝗼𝘁💝🔥-----*` //Costomize Alive Message (type your message in `` )
+
+global.owner = ['+94769888167'] //Owner number in aive msg
+global.premium = ['+94769888167'] //Owner Number info
+global.ownernomer = '+94769888167' //Owner Number <<<
+
+global.ownername = '➳ᴹᴿ✿ƙα𝚟ιყα🎃' //Owner Name
 global.botname = ' ☬RED༒DRAGON' //Bot Name
 
-global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
+global.button = '🤭facebook📍' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://www.facebook.com/106989602009708/posts/134655649243103/?app=fbl' //Change Your Button's URL
 
-global.region = 'India, South India, Kerala' //Country Region
+global.region = 'Sri lanka, Southern Province, Buddhist' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
+global.author = '➳ᴹᴿ✿ƙα𝚟ιყα🎃❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_➳ᴹᴿ✿ƙα𝚟ιყα🎃' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://www.facebook.com/106989602009708/posts/134655649243103/?app=fbl' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
@@ -55,7 +65,7 @@ global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
-    wait: '👉👈Pleas Wait...',
+    wait: '👉👈Please Wait...',
     error: 'Error!!! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
